@@ -1,0 +1,15 @@
+{
+  "name": "consulta-pje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristian medina",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "pdfkit": "^0.13.0"
+  }
+}
